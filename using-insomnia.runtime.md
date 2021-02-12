@@ -17,7 +17,7 @@ dotnet add package insomnia.vm.runtime
 ## Sample code
 
 {% hint style="warning" %}
-All insomniaVM code contains in **.code** elf section.
+All Insomnia IL code is contained in **.code** elf section
 {% endhint %}
 
 {% hint style="warning" %}
