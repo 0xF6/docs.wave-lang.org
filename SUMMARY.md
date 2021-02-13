@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Architecture InsomniaELF](architecture-insomniaelf.md)
-* [Using Insomnia.Runtime](using-insomnia.runtime.md)
-* [Insomnia Opcodes](opcodes.md)
+* [Insomnia VM](insomnia-vm/README.md)
+  * [Insomnia.Runtime](insomnia-vm/using-insomnia.runtime.md)
+  * [Architecture ELF](insomnia-vm/architecture-insomniaelf.md)
+  * [Opcodes](insomnia-vm/opcodes.md)
 

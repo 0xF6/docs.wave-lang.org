@@ -2,7 +2,7 @@
 description: using insomnia.runtime package for building application code.
 ---
 
-# Using Insomnia.Runtime
+# Insomnia.Runtime
 
 ## Install package
 

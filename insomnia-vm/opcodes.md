@@ -2,7 +2,7 @@
 description: List of operation codes.
 ---
 
-# Insomnia Opcodes
+# Opcodes
 
 ## .NOP
 
