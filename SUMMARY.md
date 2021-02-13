@@ -6,7 +6,5 @@
 
 ## OpCodes
 
----
-
-* [.ADD](.add.md)
+* [.ADD](opcodes/.add.md)
 
