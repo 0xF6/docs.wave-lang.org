@@ -6,3 +6,7 @@
 
 ## OpCodes
 
+---
+
+* [.ADD](.add.md)
+
