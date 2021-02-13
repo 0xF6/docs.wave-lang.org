@@ -6,5 +6,5 @@
 
 ## OpCodes
 
-* [.ADD](opcodes/.add.md)
+* [.ADD2](opcodes/.add2.md)
 
