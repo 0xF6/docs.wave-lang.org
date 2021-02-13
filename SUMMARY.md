@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 * [Insomnia VM](insomnia-vm/README.md)
   * [Insomnia.Runtime](insomnia-vm/using-insomnia.runtime.md)
   * [Architecture ELF](insomnia-vm/architecture-insomniaelf.md)
