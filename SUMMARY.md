@@ -6,5 +6,3 @@
 
 ## OpCodes
 
-* [.NOP](opcodes/.nop.md)
-
