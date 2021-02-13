@@ -1,8 +1,8 @@
 ---
-description: Add operation.
+description: List of operation codes.
 ---
 
-# Opcodes
+# Insomnia Opcodes
 
 ## .NOP
 
@@ -470,7 +470,7 @@ Load from locals into stack.
 
 ## .LOC.INIT
 
-Initialization locals stack  .
+Initialization locals stack .
 
 | Name | Size | ControlChain | FlowControl |
 | :--- | :--- | :--- | :--- |
@@ -566,7 +566,7 @@ New object Operation.
 
 ## .EQL
 
-Compare two value, when values are equal 1 (int32) stage into stack, otherwise 0 (int32).
+Compare two value, when values are equal 1 \(int32\) stage into stack, otherwise 0 \(int32\).
 
 | Name | Size | ControlChain | FlowControl |
 | :--- | :--- | :--- | :--- |
@@ -574,7 +574,7 @@ Compare two value, when values are equal 1 (int32) stage into stack, otherwise 0
 
 ## .JMP
 
-Control flow, jump onto label. (unconditional)
+Control flow, jump onto label. \(unconditional\)
 
 | Name | Size | ControlChain | FlowControl |
 | :--- | :--- | :--- | :--- |
@@ -643,5 +643,4 @@ Control flow, jump onto label when value has true or either differs from null or
 | Name | Size | ControlChain | FlowControl |
 | :--- | :--- | :--- | :--- |
 | JMP.T | 1 | 0 | 0 |
-
 
