@@ -1,15 +1,15 @@
 ---
-description: Architecture of executable file for the Insomnia virtual machine
+description: Architecture of executable file for the Ishtar virtual machine
 ---
 
 # Architecture ELF
 
-## How to read ELF of Insomnia
+## How to read ELF of Ishtar
 
 Use default ELF reader.
 
 {% hint style="warning" %}
- All Insomnia IL code is contained in **.code** elf section.
+ All Ishtar IL code is contained in **.code** elf section.
 {% endhint %}
 
 After reading elf **.code** section, following instructions to decode the IL Code

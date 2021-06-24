@@ -1,2 +1,2 @@
-# Insomnia VM
+# Ishtar VM
 
